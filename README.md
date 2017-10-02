@@ -16,13 +16,10 @@ Here are some examples
 
 [1, 1, 1] should return [1]
 
-## How to Run this Lab
+### How to Run this Lab
 
-Clone the repository
-Open index.html in your browser to see the currently failing test specs you are to pass
-Open the repository in your favorite text editor to explore the different files
-Open js\max-min-number.js and write the function(s) or lines of code to pass the tests
-You could refresh index.html in your browser intermittently to see the status of test specs.
+Fork this Repository, then Clone forked repository
+Open the file named maxAndMinNumbers.py and start coding
 ## Notes
 
 Remember that passing code is just the first step. The goal is to work towards a solution that is as readable and expressive as you can make it.
